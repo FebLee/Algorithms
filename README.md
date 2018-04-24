@@ -1,2 +1,2 @@
 # Algorithms
-Also data structures.
+It also includes data structures.
